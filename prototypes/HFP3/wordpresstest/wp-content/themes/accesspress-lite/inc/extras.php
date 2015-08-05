@@ -395,7 +395,8 @@ function accesspresslite_bxslidercb(){
 	if((isset($accesspresslite_settings['slider1']) && !empty($accesspresslite_settings['slider1'])) 
 		|| (isset($accesspresslite_settings['slider2']) && !empty($accesspresslite_settings['slider2'])) 
 		|| (isset($accesspresslite_settings['slider3']) && !empty($accesspresslite_settings['slider3']))
-		|| (isset($accesspresslite_settings['slider4']) && !empty($accesspresslite_settings['slider4'])) 
+		|| (isset($accesspresslite_settings['slider4']) && !empty($accesspresslite_settings['slider4']))
+		|| (isset($accesspresslite_settings['slider5']) && !empty($accesspresslite_settings['slider5'])) 
 		|| (isset($accesspresslite_settings['slider_cat']) && !empty($accesspresslite_settings['slider_cat']))
 	){
 
@@ -418,8 +419,8 @@ function accesspresslite_bxslidercb(){
     <?php 
 
         if($accesspresslite_settings['slider_options'] == 'single_post_slider'){
-        	if(!empty($accesspresslite_settings['slider1']) || !empty($accesspresslite_settings['slider2']) || !empty($accesspresslite_settings['slider3']) || !empty($accesspresslite_settings['slider4'])){
-        		$sliders = array($accesspresslite_settings['slider1'],$accesspresslite_settings['slider2'],$accesspresslite_settings['slider3'],$accesspresslite_settings['slider4']);
+        	if(!empty($accesspresslite_settings['slider1']) || !empty($accesspresslite_settings['slider2']) || !empty($accesspresslite_settings['slider3']) || !empty($accesspresslite_settings['slider4']) || !empty($accesspresslite_settings['slider5'])){
+        		$sliders = array($accesspresslite_settings['slider1'],$accesspresslite_settings['slider2'],$accesspresslite_settings['slider3'],$accesspresslite_settings['slider4'],$accesspresslite_settings['slider5']);
 				$remove = array(0);
 			    $sliders = array_diff($sliders, $remove);  ?>
 
@@ -510,7 +511,7 @@ function accesspresslite_bxslidercb(){
 				<div class="slider-caption">
 					<div class="ak-container">
 						<h1 class="caption-title">Multimodal Interfaces</h1>
-						<h2 class="caption-description">Provides the user with multiple modes of interacting with a system.</h2>
+						<h2 class="caption-description">Provides the user with multiple modes of interacting with a system</h2>
 					</div>
 				</div>
                 <?php  endif; ?>
@@ -534,7 +535,7 @@ function accesspresslite_bxslidercb(){
 				<div class="slider-caption">
 					<div class="ak-container">
 						<h1 class="caption-title">Personal Information Management</h1>
-						<h2 class="caption-description">Refers to the practice and the study of people activities.</h2>
+						<h2 class="caption-description">Refers to the practice and the study of people activities</h2>
 					</div>
 				</div>
                 <?php  endif; ?>
@@ -546,7 +547,7 @@ function accesspresslite_bxslidercb(){
 				<div class="slider-caption">
 					<div class="ak-container">
 						<h1 class="caption-title">Multimedia Information Retrieval and Visualization</h1>
-						<h2 class="caption-description">Refers to the practice and the study of people activities.</h2>
+						<h2 class="caption-description">Refers to the practice and the study of people activities</h2>
 					</div>
 				</div>
                 <?php  endif; ?>
@@ -558,7 +559,7 @@ function accesspresslite_bxslidercb(){
 				<div class="slider-caption">
 					<div class="ak-container">
 						<h1 class="caption-title">Accessibility and Mobile Computing</h1>
-						<h2 class="caption-description">Human–computer interaction by which a computer is expected to be transported during normal usage.</h2>
+						<h2 class="caption-description">Human–computer interaction by which a computer is expected to be transported during normal usage</h2>
 					</div>
 				</div>
                 <?php  endif; ?>

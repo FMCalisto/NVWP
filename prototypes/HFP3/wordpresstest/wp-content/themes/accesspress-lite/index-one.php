@@ -421,7 +421,7 @@ wp_reset_query(); ?>
         else:  
         ?>
         <aside id="text-3" class="widget widget_text">
-            <h3 class="widget-title"><?php _e('What are we working on?','accesspresslite'); ?></h3>
+            <h3 class="widget-title"><?php _e('Strategy','accesspresslite'); ?></h3>
             <div class="textwidget">
                 <ul>
                 <li><?php _e('Multimodal Interfaces','accesspresslite'); ?></li>

@@ -60,6 +60,9 @@ Images
     http://pixabay.com/en/key-metal-home-security-wedding-96233/
 
 == Changelog ==
+Version 2.44.8
+* Addition and modification of Info in theme option panel
+
 Version 2.44.7
 * Plugins recommended Via TGM. 
 * Minor Fixes in theme option panel.

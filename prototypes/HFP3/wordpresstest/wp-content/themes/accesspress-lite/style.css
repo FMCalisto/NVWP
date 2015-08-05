@@ -4,7 +4,7 @@ Theme URI: http://accesspressthemes.com/wordpress-themes/accesspress-lite/
 Author: AccessPress Themes
 Author URI: http://accesspressthemes.com
 Description: AccessPress Lite is responsive multipurpose WordPress business theme with clean, highly professional design and lots of useful features like a premium theme - and strong theme options panel to manage theme all! It is probably the most feature-rich free theme with lots of useful options events layout, portfolio layout, testimonial layout, blog layout, gallery layout, featured posts on home page, quick contact, social media integration, full width slider, team member layout, sidebar layout, multiple home page layout, call to action and many other page layouts. It is fully responsive, WooCommerce compatible, bbPress compatible, translation ready, cross-browser compatible, SEO friendly, RTL support. Theme is completely translated in: French, Persian, Japanese, Danish now. AccessPress Lite is multi-purpose and is suitable for travel, corporate, portfolio, photography, nature, health, small biz, personal, creative, corporate, agencies, bloggers anyone and everyone. Great customer support via online chat, email, support forum. Official support forum: http://accesspressthemes.com/support/ Video tutorials: http://bit.ly/aptytube View full demo here: https://accesspressthemes.com/accesspresslite/
-Version: 2.44.7
+Version: 2.44.8
 License: GNU General Public License, version 3 (GPLv3)
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 Text Domain: accesspresslite
@@ -873,7 +873,7 @@ body.boxed-layout{
 
 .boxed-layout .ak-container{
     width:1200px;
-    padding:0 15px;
+    padding:0 15px; 
 }
 
 .ak-container{ 

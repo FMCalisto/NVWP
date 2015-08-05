@@ -728,6 +728,21 @@ function accesspresslite_theme_options_page() {
 					</select>
 					</td>
 					</tr>
+
+					<tr>
+					<th scope="row"><label for="slider5"><?php _e('Silder 5','accesspresslite'); ?></label></th>
+					<td>
+					<select id="slider5" name="accesspresslite_options[slider5]">
+					<?php
+					foreach ( $accesspresslite_postlist as $single_post ) :
+						$label = $single_post['label']; ?>
+						<option value="<?php echo esc_attr($single_post['value']); ?>" <?php selected($single_post['value'] , $settings['slider5'] ) ?>><?php echo esc_attr($label); ?></option>
+					<?php
+					endforeach;
+					?>
+					</select>
+					</td>
+					</tr>
 					</tbody>
 
 					<tbody class="cat-as-slider">
@@ -885,6 +900,7 @@ function accesspresslite_theme_options_page() {
 
 					</td>
 				</tr>
+				
 				</tbody>
 				<tbody>
 					<tr>
@@ -1040,7 +1056,13 @@ function accesspresslite_theme_options_page() {
 						<p><?php _e('For Video tutorials, click','accesspresslite'); ?> <a target="_blank" href="<?php echo esc_url('https://www.youtube.com/watch?v=Mi60ORm_VMI&list=PLdSqn2S_qFxEzeboBioXZdAg5P4l32Hm3'); ?>"><?php _e('here','accesspresslite'); ?></a></p>
 						<p><?php _e('Live Preview, click','accesspresslite'); ?> <a target="_blank" href="<?php echo esc_url('https://accesspressthemes.com/accesspress-lite/'); ?>"><?php _e('here','accesspresslite'); ?></a></p>
 						<hr />
-						
+
+						<h4><?php _e('New Child Theme of AccessPress Lite','accesspresslite'); ?></h4>
+						<p><?php _e('Check Demo Here - ','accesspresslite'); ?> <a target="_blank" href="<?php echo esc_url('http://accesspressthemes.com/aplite/'); ?>"><?php echo esc_url('http://accesspressthemes.com/aplite/'); ?></a></p>
+						<p><?php _e('Download Here - ','accesspresslite'); ?> <a target="_blank" href="<?php echo esc_url('https://accesspressthemes.com/wordpress-themes/ap-lite/'); ?>"><?php echo esc_url('https://accesspressthemes.com/wordpress-themes/ap-lite/'); ?></a></p>
+
+						<hr />
+
 						<h4><?php _e('Our other Products','accesspresslite'); ?></h4>
 						<p><?php _e('Themes - ','accesspresslite'); ?><a target="_blank" href="<?php echo esc_url('http://accesspressthemes.com/themes'); ?>"><?php echo esc_url('http://accesspressthemes.com/themes'); ?></a></p>
 						<p><?php _e('Plugins - ','accesspresslite'); ?><a target="_blank" href="<?php echo esc_url('http://accesspressthemes.com/plugins'); ?>"><?php echo esc_url('http://accesspressthemes.com/plugins'); ?></a></p>
@@ -1050,6 +1072,11 @@ function accesspresslite_theme_options_page() {
 						<p>
 						<?php _e('If you have any question/feedback regarding theme, please post in our forum','accesspresslite'); ?><br/>
 						<?php _e('Forum:','accesspresslite'); ?> <a target="_blank" href="<?php echo esc_url('http://accesspressthemes.com/support/'); ?>"><?php echo esc_url('http://accesspressthemes.com/support/'); ?></a><br/>
+						
+						<br />
+
+						<?php _e('For Online Chat Support','accesspresslite'); ?><br/>
+						<a target="_blank" href="<?php echo esc_url('http://accesspressthemes.com/'); ?>"><?php echo esc_url('http://accesspressthemes.com/'); ?></a><br/>
 						
 						<br />
 
