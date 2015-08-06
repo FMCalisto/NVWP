@@ -71,7 +71,7 @@ function wppic_plugin_template( $content, $data ){
 	if ( $type == 'plugin' ) {
 
 		//load custom user template if exists
-		$WPPICtemplatefile = '/wppic-templates/wppic-template-plugin';
+		$WPPICtemplatefile = '/wppic-templates/wppic-template-plugin-vimmi';
 		ob_start();
 		if ( file_exists( get_stylesheet_directory() . $WPPICtemplatefile .  $layout . '.php' ) ) { 
 			include( get_stylesheet_directory() . $WPPICtemplatefile .  $layout . '.php' ); 
