@@ -76,7 +76,7 @@ function wpapl_showProjectDetail( $projectID ) {
 	$html = ' 
 		<div class="wpapl-project-detail">
 		<div class="wpapl-category-heading"><p><a href="' . $research_area_uri . '">' .  $research_area->title . '</a> &gt;&gt; </p></div>
-		<span class="wpapl-project-minititle">projects</span><h3>' . $project->title . '
+		<span class="wpapl-project-minititle"></span><h3>' . $project->title . '
 		  </h3>
 		<ul>   
 			<li><h4>Abstract</h4>
