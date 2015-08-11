@@ -1,6 +1,6 @@
 # New VIMMI Webpage Prototype
 
-## VIMMI
+## About VIMMI
 
 ### Objectives
 
