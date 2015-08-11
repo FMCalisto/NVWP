@@ -1,11 +1,13 @@
-.wpa label {    
+.wpa label {
 	float: left;    
 	width: 17em;    
 	margin-right: 1em;  
 }
 
 .wpapl-person {
-	font-size: 1em;	
+	display: inline-block;
+	font-size: 1em;
+	margin: 1%;
 }
 
 .wpapl-person .wpapl-image {

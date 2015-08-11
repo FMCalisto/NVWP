@@ -361,7 +361,6 @@ msgid "Jotta Lima"
 msgstr ""
 
 #: ../index-one.php:605
-msgid "View All Testimonials"
 msgstr ""
 
 #: ../search.php:16

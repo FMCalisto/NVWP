@@ -441,7 +441,7 @@ wp_reset_query(); ?>
         if ( is_active_sidebar( 'textblock-2' ) ) : ?>
 		  <?php dynamic_sidebar( 'textblock-2' ); ?>
 		<?php elseif(!empty($gallery_code)): ?>	
-		<h3><?php _e('Gallery','accesspresslite')?></h3>
+		<h3><?php _e('Projects','accesspresslite')?></h3>
         <?php 
         echo do_shortcode($gallery_code );
         else: ?>

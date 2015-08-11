@@ -134,7 +134,7 @@ function wpapl_people_list_single_user_html( $userID ) {
 				<span class="wpapl-people-individual-tag">Email:</span> ' . makeClickableLinks( $user->academic_email ) . '</p>
 				<a href="' . wpapl_get_user_profile_uri( $user->userID ) . '">Details...</a>
 			</div>
-		</div><br/>
+		</div>
 	';
 	
 	return $html;
