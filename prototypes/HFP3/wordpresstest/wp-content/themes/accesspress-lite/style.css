@@ -1006,7 +1006,7 @@ Menus
 }
 
 .main-navigation .ak-container{
-    padding:0 !important;
+    padding: 0 !important;
 }
 
 .main-navigation ul {
@@ -1825,7 +1825,7 @@ Main Content
 }
 
 #primary{
-	width: 68%;
+	width: 100%;
 	float: left;
 }
 
@@ -2044,15 +2044,15 @@ Archives
 
 .cat-portfolio-list{
 	float: left;
-	width: 49%;
-	margin-bottom: 2%;
-	margin-right: 2%;
+	width: 25%;
+	margin-bottom: 2.5%;
+	margin-right: 2.5%;
 	background:#F2F3F4;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
 }
 
 .cat-portfolio-list:nth-child(odd){
-	margin-right: 0;
+	margin-right: 2.5%;
 }
 
 .cat-portfolio-list{

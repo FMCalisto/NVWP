@@ -26,6 +26,7 @@ if(!empty($post)){
 
 if($post_class=='right-sidebar' || $post_class=='both-sidebar' || empty($post_class) || is_archive()){
 ?>
+	
 	<div id="secondary-right" class="widget-area right-sidebar sidebar">
 		<?php
 			if($show_events==1) {
@@ -127,5 +128,6 @@ if($post_class=='right-sidebar' || $post_class=='both-sidebar' || empty($post_cl
 		<?php if ( is_active_sidebar( 'right-sidebar' ) ) : ?>
 			<?php dynamic_sidebar( 'right-sidebar' ); ?>
 		<?php endif; ?>
-	</div><!-- #secondary -->
+	</div>
+	<!-- #secondary -->
 <?php } ?>
