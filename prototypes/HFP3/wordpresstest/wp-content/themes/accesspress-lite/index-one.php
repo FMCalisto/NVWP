@@ -531,7 +531,7 @@ wp_reset_query(); ?>
                 <?php endwhile; ?>
 				</div>
 			</div>
-			<a class="all-testimonial" href="<?php echo get_category_link( $testimonial_category ) ?>"><?php echo esc_html($accesspresslite_settings['view_all_text']); ?> <?php echo get_cat_name($testimonial_category); ?></a>
+			<a class="all-testimonial" href="<?php echo get_category_link( $testimonial_category ) ?>"></a>
 	        
 	        
 	        <?php wp_reset_postdata(); 
