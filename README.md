@@ -20,7 +20,11 @@ The Visualization and Intelligent Multimodal Interfaces group, at INESC-ID (Lisb
 
 * Accessibility and Mobile Computing
 
-### Group Coordinator
+### Author
+
+[Francisco Maria Calisto](http://www.franciscocalisto.me/) ([@FMCalisto](https://github.com/FMCalisto))
+
+### Project Coordinator
 
 [Joaquim Armando Pires Jorge](http://web.tecnico.ulisboa.pt/jorgej/)
 
