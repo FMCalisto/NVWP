@@ -1,5 +1,17 @@
 # New VIMMI Webpage Prototype
 
+## About New VIMMI Wepage Prototype Project
+
+### Author
+
+[Francisco Maria Calisto](http://www.franciscocalisto.me/) ([@FMCalisto](https://github.com/FMCalisto))
+
+### Project Coordinator
+
+[Joaquim Armando Pires Jorge](http://web.tecnico.ulisboa.pt/jorgej/)
+
+[Daniel Jorge Viegas Gonçalves](nielgoncalves.info)
+
 ## About VIMMI
 
 ### Objectives
@@ -20,11 +32,7 @@ The Visualization and Intelligent Multimodal Interfaces group, at INESC-ID (Lisb
 
 * Accessibility and Mobile Computing
 
-### Author
-
-[Francisco Maria Calisto](http://www.franciscocalisto.me/) ([@FMCalisto](https://github.com/FMCalisto))
-
-### Project Coordinator
+### Group Coordinator
 
 [Joaquim Armando Pires Jorge](http://web.tecnico.ulisboa.pt/jorgej/)
 
