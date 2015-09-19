@@ -1,0 +1,500 @@
+   37  ./mysql -u root -p
+   38  cd ..
+   39  cd ..
+   40  cd ..
+   41  cd ..
+   42  cd ..
+   43  cd ..
+   44  cd ..
+   45  cd ..
+   46  cd ..
+   47  cd ..
+   48  ./mysql -u root -p
+   49  cd /usr/local/mysql/bin/
+   50  ./mysql -u root -p
+   51  cd ..
+   52  cd ..
+   53  cd ..
+   54  cd ..
+   55  cd ..
+   56  /usr/local/mysql/bin/mysqladmin -u root password root
+   57  cd usr/
+   58  cd ..
+   59  cd ..
+   60  cd /usr/local/mysql/bin/mysqladmin
+   61  cd /usr/local/mysql/bin/
+   62  mysqladmin -u root password root
+   63  sudo mysqladmin -u root password root
+   64  ./mysqladmin -u root password root
+   65  cd ..
+   66  cd ..
+   67  cd ..
+   68  cd ..
+   69  cd ..
+   70  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+   71  php test.php
+   72  mysql -uroot -p
+   73  <? phpinfo();
+   74  vim test.php
+   75  php test.php
+   76  php --ini
+   77  ~/Library/
+   78  cd ..
+   79  cd
+   80  cd ..
+   81  cd ..
+   82  cd ..
+   83  cd ..
+   84  ls -l
+   85  cd Library/Server/
+   86  ls -l
+   87  cd ..
+   88  cd ..
+   89  cd ..
+   90  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+   91  php -i
+   92  php -i | grep 'Configuration File'
+   93  php -i|find/i"configuration file"
+   94  cd 
+   95  cd ..
+   96  cd ..
+   97  cd ..
+   98  cd etc
+   99  ls -l
+  100  vim php.ini
+  101  vim php.ini
+  102  cd ..
+  103  cd ..
+  104  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  105  php test.php
+  106  php test.php
+  107  cd 
+  108  cd ..
+  109  cd ..
+  110  ls -l
+  111  cd usr/
+  112  ls -l
+  113  cd local
+  114  ls -l
+  115  cd var/
+  116  ls
+  117  cd mysql/
+  118  ls
+  119  cd mysql/
+  120  ls
+  121  cd ..
+  122  cd ..
+  123  cd ..
+  124  cd ..
+  125  cd ..
+  126  cd ..
+  127  cd ..
+  128  find config/database.php
+  129  find . -type d | grep config
+  130  find . -type d | grep config/database.php
+  131  cd tmp/
+  132  vim mysql.sock
+  133  vim mysql.sock
+  134  cd ..
+  135  cd ..
+  136  cd ..
+  137  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  138  php test.php
+  139  php test.php
+  140  php test.php
+  141  php test.php
+  142  php test.php &
+  143  sudo shutdown -h +60h
+  144  cd ..
+  145  cd ..
+  146  cd ..
+  147  cd Applications/
+  148  cd ..
+  149  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  150  php test.php
+  151  php test.php
+  152  php test.php
+  153  php test.php
+  154  php test.php
+  155  php test.php
+  156  clear
+  157  php test.php
+  158  php test.php
+  159  php test.php
+  160  php test.php
+  161  php test.php
+  162  php test.php
+  163  php test.php
+  164  php test.php
+  165  php test.php
+  166  php test.php
+  167  php test.php
+  168  php test.php
+  169  php test.php
+  170  php test.php
+  171  cd ..
+  172  cd ..
+  173  cd ..
+  174  cd ..
+  175  cd ..
+  176  cd ..
+  177  cd ..
+  178  cd ..
+  179  cd ..
+  180  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  181  ls -l
+  182  pwd
+  183  php /Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/test.php
+  184  ./test.php
+  185  sudo ./test.php
+  186  php test.php
+  187  env
+  188  env | grep php
+  189  which php
+  190  export PATH=/usr/local/bin:$PATH
+  191  export PATH=/Applications/MAMP/bin/php/php5.5.10/bin:$PATH
+  192  which php
+  193  cd ..
+  194  cd ..
+  195  cd ..
+  196  cd ..
+  197  cd ..
+  198  cd ..
+  199  cd ..
+  200  cd ..
+  201  cd ..
+  202  cd ..
+  203  cd ..
+  204  cd ..
+  205  cd /Applications/MAMP/bin/php/php5.3.28/bin/php
+  206  cd Applications/MAMP/bin/php/php5.6.10/
+  207  ls -l
+  208  ped
+  209  pwd
+  210  cd ..
+  211  cd ..
+  212  cd ..
+  213  cd ..
+  214  cd ..
+  215  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  216  php test.php
+  217  wich php
+  218  which php
+  219  export PATH=/usr/bin/php:$PATH
+  220  export PATH=/Applications/MAMP/bin/php/php5.6.10/bin:$PATH
+  221  which php
+  222  php test.php
+  223  php test.php
+  224  php /Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/test.php
+  225  sudo php /Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/test.php
+  226  sudo php /Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/test.php
+  227  sudo php /Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/test.php
+  228  php test.php --user=dblist --password=db2004ac1 -p --access="host=www-db.inesc-id.pt port=8080"
+  229  php test.php --user=dblist --password=db2004ac1 -p --access="host=www-db.inesc-id.pt port=3306"
+  230  php test.php --user=dblist --password=db2004ac1 -p --access="host=www-db.inesc-id.pt port=3306"
+  231  php test.php --user=dblist --password=db2004ac1 -p --access="host=www-db.inesc-id.pt"
+  232  cd 
+  233  cd ..
+  234  cd ..
+  235  cd ..
+  236  vim etc/hosts
+  237  which my.cnf
+  238  cd etc
+  239  cd ..
+  240  vim ~/my.cnf
+  241  vim $MYSQL_HOME/my.cnf
+  242  find / -name my.cnf
+  243  cd ..
+  244  cd Applications/
+  245  cd MAMP
+  246  cd MAMP.app/Contents/Resources/
+  247  ls -l
+  248  ls -la
+  249  cd ..
+  250  cd ..
+  251  cd ..
+  252  cd 
+  253  cd ..
+  254  cd ..
+  255  cd ..
+  256  mysqld --help --verbose
+  257  cd /usr/local/mysql/etc/my.cnf
+  258  cd /usr/local/mysql/etc/
+  259  cd /usr/local/mysql/
+  260  ls -l
+  261  vim my.cnf
+  262  cd ..
+  263  cd ..
+  264  cd ..
+  265  cd ..
+  266  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  267  php test.php
+  268  php test.php
+  269  wich mysql
+  270  which mysql
+  271  export PATH=/usr/bin/mysql:$PATH
+  272  cd ..
+  273  cd ..
+  274  cd ..
+  275  cd ..
+  276  cd ..
+  277  cd /bin/php/php5.6.10/bin
+  278  cd bin/
+  279  ls -l
+  280  cd ..
+  281  cd ..
+  282  cd ..
+  283  cd ..
+  284  cd ..
+  285  cd ..
+  286  cd ..
+  287  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  288  cd ..
+  289  cd ..
+  290  cd ..
+  291  cd ..
+  292  cd ..
+  293  ls -l
+  294  cd tmp/
+  295  cd mysql/
+  296  export PATH=/Applications/MAMP/tmp/mysql/:$PATH
+  297  cd ..
+  298  cd ..
+  299  cd ..
+  300  cd ..
+  301  cd ..
+  302  cd ..
+  303  cd ..
+  304  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  305  php test.php
+  306  which mysql
+  307  php test.php
+  308  php test.php
+  309  CD
+  310  cd
+  311  cd GitHub/
+  312  git clone https://github.com/mechanicious/domenu
+  313  git clone https://github.com/lukasoppermann/html5sortable
+  314  cd SSDS/
+  315  git add --all
+  316  git commit -am "[CHANGE] HFP7"
+  317  git push origin
+  318  git status
+  319  cd ..
+  320  cd FMCalisto.github.io/
+  321  git add --all
+  322  git commit -am "[CHANGE] HFP7"
+  323  git push
+  324  ipconfig
+  325  ifconfig
+  326  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  327  cd 
+  328  cd ..
+  329  cd ..
+  330  cd ..
+  331  cd ..
+  332  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  333  php test.php
+  334  php test.php
+  335  php test.php
+  336  php test.php
+  337  php test.php
+  338  php test.php
+  339  php inesc-id.php
+  340  clear
+  341  php inesc-id.php
+  342  php inesc-id.php
+  343  php inesc-id.php
+  344  php inesc-id.php &
+  345  php inesc-id.php &
+  346  php test.php 
+  347  sudo shutdown -h +60h
+  348  ls -l
+  349  cd ..
+  350  cd ..
+  351  cd ..
+  352  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  353  php test.php
+  354  cd
+  355  cd GitHub/
+  356  cd server-db-scripts/
+  357  git add --all
+  358  git commit -am "[ADD] Plugin File"
+  359  git push
+  360  git push
+  361  cd 
+  362  cd ..
+  363  cd ..
+  364  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  365  php test.php
+  366  cd
+  367  cd GitHub/
+  368  cd inesc-id-db-scripts/
+  369  git add --all
+  370  git commit -am "[ADD] Plugin File"
+  371  git add --all
+  372  git commit -am "[ADD] Plugin File"
+  373  git push
+  374  git fetch
+  375  ls -l
+  376  cd src/
+  377  ls
+  378  cd ..
+  379  git pull
+  380  cd src/
+  381  ls -l
+  382  cd ..
+  383  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  384  cd 
+  385  cd ..
+  386  cd ..
+  387  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  388  ls -l
+  389  cd ..
+  390  cd 
+  391  cd GitHub/
+  392  git clone https://github.com/FMCalisto/inesc-id-db-scripts
+  393  ls -l
+  394  cd ..
+  395  cd 
+  396  cd ..
+  397  cd ..
+  398  git clone https://github.com/FMCalisto/inesc-id-db-scripts
+  399  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  400  php test.php
+  401  php test.php
+  402  php test.php
+  403  php inesc-id.php
+  404  php test.php
+  405  php test.php
+  406  php test.php
+  407  sudo shutdown -h +120h
+  408  cd ..
+  409  cd ..
+  410  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  411  php test.php
+  412  php test.php
+  413  php test.php
+  414  php test.php
+  415  php test.php
+  416  php test.php
+  417  clear
+  418  php test.php
+  419  php test.php
+  420  php test.php
+  421  php test.php
+  422  iodbc-config --odbcinstini
+  423  cd ..
+  424  cd ..
+  425  cd 
+  426  cd ..
+  427  cd ..
+  428  iodbc-config --odbcinstini
+  429  iodbc-config --odbcinstini
+  430  brew install freetds
+  431  subl ~/Library/ODBC/odbc.ini
+  432  ls -l
+  433  touch odbcinst.ini
+  434  find ~/ -type f -name "odbcinst.ini"
+  435  sudo find ~/ -type f -name "odbcinst.ini"
+  436  cd etc
+  437  ls -l
+  438  cd ..
+  439  cd /usr/local/easysoft/unixODBC/bin
+  440  cd usr/local/easysoft/
+  441  ls -l
+  442  cd iODBC/
+  443  ls -l
+  444  cd ..
+  445  ls -l
+  446  cd bin/
+  447  ls -l
+  448  cd ..
+  449  ls -ls
+  450  cd bin/
+  451  ./isql -v MSSQL-PHP
+  452  cd ..
+  453  cd sqlserver/
+  454  ls -l
+  455  cd bin/
+  456  ls -l
+  457  cd ..
+  458  cd install/
+  459  ls
+  460  cd ..
+  461  cd ..
+  462  ls -l
+  463  cd iODBC/
+  464  ls -l
+  465  ./ODBC\ Manager.app/
+  466  cd ..
+  467  iodbc-config --odbcinstini
+  468  iodbc-config --odbcinstini
+  469  iodbc-config --odbcinstini
+  470  iodbc-config
+  471  iodbc-config --odbcinstini
+  472  odbc-sqlserver-x.y.z-platform-variation.dmg
+  473  iodbc-config --odbcinstini
+  474  odbc-sqlserver-x.y.z-platform-variation.dmg
+  475  iodbctest
+  476  iodbctest
+  477  iodbc-config --odbcinstini
+  478  cd ..
+  479  cd 
+  480  cd ..
+  481  cd ..
+  482  iodbc-config --odbcinstini
+  483  sudo shutdown -h +70h
+  484  sudo killall shutdown
+  485  cd GitHub/
+  486  git clone https://github.com/FMCalisto/calli.tech
+  487  git add --all
+  488  git commit -am "[ADD] Source Files"
+  489  git push
+  490  git reset
+  491  git status
+  492  cd calli.tech/
+  493  git add --all
+  494  git commit -am "[ADD] Source Files"
+  495  git push
+  496  cd ..
+  497  cd ..
+  498  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  499  ls
+  500  php test.php 
+  501  cd ..
+  502  cd ..
+  503  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  504  php test.php 
+  505  cd
+  506  cd GitHub/
+  507  cd inesc-id-db-scripts/
+  508  git add --all
+  509  git commit "[CHANGE] Files"
+  510  git commit -am "[CHANGE] Files"
+  511  git push
+  512  git add --all
+  513  git commit -am "[CHANGE] Files"
+  514  git push
+  515  git add --all
+  516  git commit -am "[CHANGE] PDO Files"
+  517  git push
+  518  cd ..
+  519  cd ..
+  520  cd ..
+  521  cd ..
+  522  cd Applications/MAMP/htdocs/wordpresstest/wp-content/plugins/publications-importer/
+  523  php test.php
+  524  mysql -h
+  525  mysql --help
+  526  .\ less
+  527  mysql --help | less
+  528  mysql -D=INESC -h=www-db.inesc-id.pt -u=dblist
+  529  mysql -D INESC -h www-db.inesc-id.pt -u dblist
+  530  mysql -D INESC -h www-db.inesc-id.pt -u dblist -P db2004ac1
+  531  mysql -D INESC -h www-db.inesc-id.pt -u dblist -p db2004ac1
+  532  mysql --help | less
+  533  mysql --database=INESC --host=www-db.inesc-id.pt --user=dblist --password=db2004ac1
+  534  history > history_for_db_permi.txt
+  535  ls -l
+  536  history > history_for_db_permissions_issue.txt
