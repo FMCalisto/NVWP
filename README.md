@@ -10,6 +10,8 @@
 
 [Joaquim Armando Pires Jorge](http://web.tecnico.ulisboa.pt/jorgej/)
 
+### Project Co-Coordinator
+
 [Daniel Jorge Viegas Gonçalves](nielgoncalves.info)
 
 ## About VIMMI
