@@ -57,3 +57,4 @@ The Visualization and Intelligent Multimodal Interfaces group, at INESC-ID (Lisb
 * Bruno Oliveira ([bruno-oliveira](https://github.com/bruno-oliveira))
 * Bruno Dias ([echo66](https://github.com/echo66))
 * Luís Ribeiro Gomes ([lribeirogomes](https://github.com/lribeirogomes))
+* João Miranda ([JSMiranda](https://github.com/JSMiranda))
