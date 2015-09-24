@@ -48,6 +48,10 @@ The Visualization and Intelligent Multimodal Interfaces group, at INESC-ID (Lisb
 
 [VIMMI](http://www.inesc-id.pt/intranet/laboratoriogrupo/view/view_group.php?CC=II07)
 
+### Presentations & Meetings
+
+24/09/2015 - [VIMMI Group First Project Prototype Presentation](https://github.com/FMCalisto/NVWP/blob/master/presentations/24092015/ines-id_vimmi_nvwp_intro_presentation.pptx) ([SlideShare](http://www.slideshare.net/fmcalisto/new-vimmi-webpage-prototype-presentation-vimmi-inescid))
+
 #### Acknowledgements
 
 * Professor [Joaquim Armando Pires Jorge](http://web.tecnico.ulisboa.pt/jorgej/)
