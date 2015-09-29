@@ -1,0 +1,568 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: default\n"
+"POT-Creation-Date: 2014-12-17 13:11+0200\n"
+"PO-Revision-Date: 2014-12-17 13:11+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/functions.php:90
+msgid "Job Title:"
+msgstr "Berufsbezeichnung:"
+
+#: ../includes/functions.php:96
+msgid "E-Mail:"
+msgstr "E-Mail:"
+
+#: ../includes/functions.php:102
+msgid "Website:"
+msgstr "Website:"
+
+#: ../includes/functions.php:110
+msgid "Telephone:"
+msgstr "Telefon:"
+
+#: ../includes/functions.php:116
+msgid "Location:"
+msgstr "Wohnort:"
+
+#: ../includes/functions.php:211
+msgid "Skill Name:"
+msgstr "Geschicklichkeit Name:"
+
+#: ../includes/general_settings.php:8 ../indeed-my-team.php:94
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: ../includes/general_settings.php:15
+msgid "Responsive Settings"
+msgstr "Responsive Einstellungen"
+
+#: ../includes/general_settings.php:21
+msgid "Screen Max-Width:"
+msgstr "Bildschirm Max-Breite:"
+
+#: ../includes/general_settings.php:29 ../includes/general_settings.php:50
+#: ../includes/general_settings.php:71
+msgid "Columns"
+msgstr "Spalten"
+
+#: ../includes/general_settings.php:35 ../includes/general_settings.php:56
+#: ../includes/general_settings.php:77
+msgid "Auto"
+msgstr "Auto"
+
+#: ../includes/general_settings.php:42 ../includes/general_settings.php:63
+msgid "Screen Min-Width:"
+msgstr "Bildschirm Min-Breite:"
+
+#: ../includes/general_settings.php:42 ../includes/general_settings.php:63
+msgid "and Screen Max-Width:"
+msgstr "und Bildschirm Max-Breite:"
+
+#: ../includes/general_settings.php:86 ../includes/general_settings.php:199
+#: ../includes/general_settings.php:217 ../includes/general_settings.php:242
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+#: ../includes/general_settings.php:92
+msgid "Inside Page"
+msgstr "Innen Seite"
+
+#: ../includes/general_settings.php:98
+msgid "Entry Information"
+msgstr "Eintrag Informationen"
+
+#: ../includes/general_settings.php:108
+#: ../includes/imt_shortcode_generator.php:147 ../indeed-my-team.php:284
+msgid "Member Name"
+msgstr "Mitgliedername"
+
+#: ../includes/general_settings.php:115
+#: ../includes/imt_shortcode_generator.php:151
+#: ../includes/imt_widget_form.php:109 ../includes/imt_widget_form.php:116
+msgid "Photo"
+msgstr "Foto"
+
+#: ../includes/general_settings.php:122
+#: ../includes/imt_shortcode_generator.php:155
+#: ../includes/imt_widget_form.php:116
+msgid "Description"
+msgstr "Beschreibung"
+
+#: ../includes/general_settings.php:130
+#: ../includes/imt_shortcode_generator.php:160
+#: ../includes/imt_widget_form.php:124
+msgid "Job Title"
+msgstr "Berufsbezeichnung"
+
+#: ../includes/general_settings.php:137
+#: ../includes/imt_shortcode_generator.php:164
+#: ../includes/imt_widget_form.php:131
+msgid "E-mail"
+msgstr "E-mail"
+
+#: ../includes/general_settings.php:145
+#: ../includes/imt_shortcode_generator.php:168
+#: ../includes/imt_widget_form.php:152
+msgid "Website"
+msgstr "Webseite"
+
+#: ../includes/general_settings.php:152
+#: ../includes/imt_shortcode_generator.php:172
+#: ../includes/imt_widget_form.php:145
+msgid "Telephone"
+msgstr "Telefon"
+
+#: ../includes/general_settings.php:160
+#: ../includes/imt_shortcode_generator.php:176
+#: ../includes/imt_widget_form.php:138
+msgid "Location"
+msgstr "Lage"
+
+#: ../includes/general_settings.php:168
+#: ../includes/imt_shortcode_generator.php:181
+#: ../includes/imt_widget_form.php:160
+msgid "Social Icons"
+msgstr "Social Icons"
+
+#: ../includes/general_settings.php:175
+#: ../includes/imt_shortcode_generator.php:186
+#: ../includes/imt_widget_form.php:168 ../indeed-my-team.php:141
+msgid "Skills"
+msgstr "Fähigkeiten"
+
+#: ../includes/general_settings.php:190
+msgid "Display Latest Posts"
+msgstr "Letzte Beiträge anzeigen"
+
+#: ../includes/general_settings.php:191
+msgid "Activate when the team member was correlated with an WP author"
+msgstr ""
+"Aktivieren Sie, wenn das Teammitglied wurde mit einem WP Autor korreliert"
+
+#: ../includes/general_settings.php:205
+msgid "Custom CSS"
+msgstr "Brauch CSS"
+
+#: ../includes/general_settings.php:208
+msgid ""
+"Add   !important;  after each style option and full style path to be sure "
+"that it will take effect!"
+msgstr ""
+"Fügen !important; nach jedem Stil-Option und voller Stil Weg, um "
+"sicherzustellen, dass sie wirksam werden!"
+
+#: ../includes/general_settings.php:225
+msgid "Post Type"
+msgstr "Post Type"
+
+#: ../includes/general_settings.php:232
+#: ../includes/imt_shortcode_generator.php:74
+#: ../includes/imt_widget_form.php:70 ../includes/imt_widget_form.php:102
+msgid "Name"
+msgstr "Name"
+
+#: ../includes/general_settings.php:240
+msgid ""
+"If You change the Post Type, the current Team will not be available anymore!"
+msgstr ""
+"Wenn Sie ändern die Art Beitrag wird die Team nicht mehr zur Verfügung "
+"stehen!"
+
+#: ../includes/imt_shortcode_generator.php:13 ../indeed-my-team.php:93
+msgid "Shortcode Generator"
+msgstr "Shortcode Generator"
+
+#: ../includes/imt_shortcode_generator.php:16
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../includes/imt_shortcode_generator.php:26
+msgid "Display Entrires:"
+msgstr "Anzeige Entrires:"
+
+#: ../includes/imt_shortcode_generator.php:30
+#: ../includes/imt_widget_form.php:13
+msgid "Team:"
+msgstr "Mannschaft:"
+
+#: ../includes/imt_shortcode_generator.php:35 ../includes/imt_view.php:271
+#: ../includes/imt_widget_form.php:34
+msgid "All"
+msgstr "Alle"
+
+#: ../includes/imt_shortcode_generator.php:54
+msgid "Number Of Entries:"
+msgstr "Anzahl der Beiträge:"
+
+#: ../includes/imt_shortcode_generator.php:67
+#: ../includes/imt_widget_form.php:63
+msgid "Order By:"
+msgstr "Geordnet nach:"
+
+#: ../includes/imt_shortcode_generator.php:72
+#: ../includes/imt_widget_form.php:68
+msgid "Date"
+msgstr "Datum"
+
+#: ../includes/imt_shortcode_generator.php:76
+msgid "Last Name"
+msgstr "Nachname"
+
+#: ../includes/imt_shortcode_generator.php:78
+#: ../includes/imt_widget_form.php:72
+msgid "Random"
+msgstr "Zufällig"
+
+#: ../includes/imt_shortcode_generator.php:84
+#: ../includes/imt_widget_form.php:78
+msgid "Order Type:"
+msgstr "Auftragsart:"
+
+#: ../includes/imt_shortcode_generator.php:93
+#: ../includes/imt_widget_form.php:87
+msgid "ASC"
+msgstr "ASC"
+
+#: ../includes/imt_shortcode_generator.php:95
+#: ../includes/imt_widget_form.php:89
+msgid "DESC"
+msgstr "DESC"
+
+#: ../includes/imt_shortcode_generator.php:106
+#: ../includes/imt_widget_form.php:404
+msgid "Show Inside Page"
+msgstr "Innen Seite anzeigen"
+
+#: ../includes/imt_shortcode_generator.php:115
+#: ../includes/imt_widget_form.php:408
+msgid "Template"
+msgstr "Schablone"
+
+#: ../includes/imt_shortcode_generator.php:119
+#: ../includes/imt_widget_form.php:410
+msgid "Indeed Custom Team Page"
+msgstr "Indeed Custom Team Page"
+
+#: ../includes/imt_shortcode_generator.php:120
+#: ../includes/imt_widget_form.php:411
+msgid "Default Template"
+msgstr "Standardvorlage"
+
+#: ../includes/imt_shortcode_generator.php:138
+#: ../includes/imt_widget_form.php:427
+msgid ""
+"If you want to use this options do not move theme files from their original "
+"location."
+msgstr ""
+"Wenn Sie diese Optionen nicht verwenden Thema Dateien von ihrem "
+"ursprünglichen Speicherort."
+
+#: ../includes/imt_shortcode_generator.php:144
+msgid "Entry Information:"
+msgstr "Eintrag Informationen:"
+
+#: ../includes/imt_shortcode_generator.php:195
+msgid "Select Theme"
+msgstr "Wählen Sie Theme"
+
+#: ../includes/imt_shortcode_generator.php:222
+msgid "Color Scheme"
+msgstr "Farbschema"
+
+#: ../includes/imt_shortcode_generator.php:246
+#: ../includes/imt_widget_form.php:234
+msgid "Number of Columns:"
+msgstr "Anzahl der Spalten:"
+
+#: ../includes/imt_shortcode_generator.php:253
+#: ../includes/imt_widget_form.php:241
+msgid "columns"
+msgstr "Spalten"
+
+#: ../includes/imt_shortcode_generator.php:268
+msgid "Hide Small Icons"
+msgstr "Ausblenden Kleine Symbole"
+
+#: ../includes/imt_shortcode_generator.php:269
+msgid "Available for icons from Email,Website,Telephone fields"
+msgstr "Verfügbar für Symbole von E-Mail, Website, Telefon felder"
+
+#: ../includes/imt_shortcode_generator.php:273
+msgid "Align the Items Centered"
+msgstr "Richten Sie die Angebote Zentriert"
+
+#: ../includes/imt_shortcode_generator.php:279
+#: ../includes/imt_widget_form.php:255
+msgid "Show as Slider"
+msgstr "Als Slider anzeigen"
+
+#: ../includes/imt_shortcode_generator.php:284
+#: ../includes/imt_widget_form.php:272
+msgid "Items per Slide:"
+msgstr "Artikel pro Slide:"
+
+#: ../includes/imt_shortcode_generator.php:292
+#: ../includes/imt_widget_form.php:280
+msgid "Bullets"
+msgstr "Bullets"
+
+#: ../includes/imt_shortcode_generator.php:298
+#: ../includes/imt_widget_form.php:292
+msgid "Nav Button"
+msgstr "Nav Taste"
+
+#: ../includes/imt_shortcode_generator.php:304
+#: ../includes/imt_widget_form.php:304
+msgid "Autoplay"
+msgstr "Autoplay"
+
+#: ../includes/imt_shortcode_generator.php:310
+#: ../includes/imt_widget_form.php:316
+msgid "Stop Hover"
+msgstr "Stopp Hover"
+
+#: ../includes/imt_shortcode_generator.php:315
+#: ../includes/imt_widget_form.php:328
+msgid "Speed"
+msgstr "Geschwindigkeit"
+
+#: ../includes/imt_shortcode_generator.php:323
+#: ../includes/imt_widget_form.php:336
+msgid "Pagination Speed"
+msgstr "Nummerierung Geschwindigkeit"
+
+#: ../includes/imt_shortcode_generator.php:332
+#: ../includes/imt_widget_form.php:344
+msgid "Responsive"
+msgstr "Ansprechbar"
+
+#: ../includes/imt_shortcode_generator.php:338
+#: ../includes/imt_widget_form.php:356
+msgid "Lazy Load"
+msgstr "Lazy Load"
+
+#: ../includes/imt_shortcode_generator.php:344
+#: ../includes/imt_widget_form.php:368
+msgid "Lazy Effect"
+msgstr "Faule Effect"
+
+#: ../includes/imt_shortcode_generator.php:349
+#: ../includes/imt_widget_form.php:380
+msgid "CSS3 Transition"
+msgstr "CSS3 Transition"
+
+#: ../includes/imt_shortcode_generator.php:354
+#: ../includes/imt_widget_form.php:385
+msgid "None"
+msgstr "keiner"
+
+#: ../includes/imt_shortcode_generator.php:356
+#: ../includes/imt_widget_form.php:387
+msgid "fade"
+msgstr "fade"
+
+#: ../includes/imt_shortcode_generator.php:358
+#: ../includes/imt_widget_form.php:389
+msgid "backSlide"
+msgstr "backSlide"
+
+#: ../includes/imt_shortcode_generator.php:360
+#: ../includes/imt_widget_form.php:391
+msgid "goDown"
+msgstr "goDown"
+
+#: ../includes/imt_shortcode_generator.php:362
+#: ../includes/imt_widget_form.php:393
+msgid "fadeUp"
+msgstr "fadeUp"
+
+#: ../includes/imt_shortcode_generator.php:367
+msgid "Available only for one item per slide! May not work on some browsers!"
+msgstr ""
+"Nur für ein Stück pro slide! Darf nicht in manchen Browsern funktionieren!"
+
+#: ../includes/imt_shortcode_generator.php:372
+msgid "Filter:"
+msgstr "Filter:"
+
+#: ../includes/imt_shortcode_generator.php:381
+msgid "Teams:"
+msgstr "Mannschaften:"
+
+#: ../includes/imt_shortcode_generator.php:399
+msgid "Empty"
+msgstr "Leer"
+
+#: ../includes/imt_shortcode_generator.php:413
+msgid "Small Text"
+msgstr "Kleiner Text"
+
+#: ../includes/imt_shortcode_generator.php:414
+msgid "Big Text"
+msgstr "Groß Text"
+
+#: ../includes/imt_shortcode_generator.php:415
+msgid "Small Buttons"
+msgstr "Buttons Klein"
+
+#: ../includes/imt_shortcode_generator.php:416
+msgid "Big Buttons"
+msgstr "Groß Button"
+
+#: ../includes/imt_shortcode_generator.php:417
+msgid "DropDown"
+msgstr "DropDown"
+
+#: ../includes/imt_shortcode_generator.php:426
+msgid "Align"
+msgstr "Ausrichten"
+
+#: ../includes/imt_shortcode_generator.php:429
+msgid "Left"
+msgstr "Links"
+
+#: ../includes/imt_shortcode_generator.php:430
+msgid "Center"
+msgstr "Zentrum"
+
+#: ../includes/imt_shortcode_generator.php:431
+msgid "Right"
+msgstr "Recht"
+
+#: ../includes/imt_shortcode_generator.php:445
+msgid "ShortCode :"
+msgstr "ShortCode :"
+
+#: ../includes/imt_shortcode_generator.php:449
+msgid "PHP Code:"
+msgstr "PHP Code:"
+
+#: ../includes/imt_shortcode_generator.php:456
+msgid "Preview"
+msgstr "Vorschau"
+
+#: ../includes/imt_widget_form.php:50
+msgid "Number of items:"
+msgstr "Anzahl Annoncen:"
+
+#: ../includes/imt_widget_form.php:96
+msgid "Custom Field To Show:"
+msgstr "Benutzerdefinierte Feld zu zeigen:"
+
+#: ../includes/imt_widget_form.php:175
+msgid "Theme:"
+msgstr "Thema:"
+
+#: ../includes/imt_widget_form.php:208
+msgid "Select Color Scheme"
+msgstr "Wählen Sie Farbschema"
+
+#: ../indeed-my-team.php:34
+msgid "Members"
+msgstr "Mitglieder"
+
+#: ../indeed-my-team.php:35
+msgid "Team"
+msgstr "Mannschaft "
+
+#: ../indeed-my-team.php:36 ../indeed-my-team.php:37
+msgid "Add New Member"
+msgstr "Neues Mitglied hinzufügen"
+
+#: ../indeed-my-team.php:38
+msgid "Edit Member"
+msgstr "Bearbeiten Mitglied"
+
+#: ../indeed-my-team.php:39
+msgid "New Member"
+msgstr "Neues Mitglied"
+
+#: ../indeed-my-team.php:40
+msgid "All Members"
+msgstr "Alle Mitglieder"
+
+#: ../indeed-my-team.php:41
+msgid "View Member"
+msgstr "Ausblick Mitglied"
+
+#: ../indeed-my-team.php:42
+msgid "Search Team Member"
+msgstr "Suche Mannschaft Mitglied"
+
+#: ../indeed-my-team.php:43
+msgid "No Team Members available"
+msgstr "Keine Teammitglieder verfügbar"
+
+#: ../indeed-my-team.php:44
+msgid "No Team Members found in Trash"
+msgstr "Keine Teammitglieder im Papierkorb gefunden"
+
+#: ../indeed-my-team.php:46
+msgid "Team Members"
+msgstr "Mannschaft Mitglied"
+
+#: ../indeed-my-team.php:70
+msgid "Search Teams"
+msgstr "Suchen Mannschaften"
+
+#: ../indeed-my-team.php:71
+msgid "All Teams"
+msgstr "Alle Mannschaften"
+
+#: ../indeed-my-team.php:72
+msgid "Parent Category"
+msgstr "Übergeordnete Kategorie"
+
+#: ../indeed-my-team.php:73
+msgid "Parent Category:"
+msgstr "Oberkategorie:"
+
+#: ../indeed-my-team.php:74
+msgid "Edit Team"
+msgstr "Mannschaft bearbeiten"
+
+#: ../indeed-my-team.php:75
+msgid "Update Category"
+msgstr "Aktualisierung Kategorie"
+
+#: ../indeed-my-team.php:76
+msgid "Add New Team"
+msgstr "Neu hinzufügen Mannschaft "
+
+#: ../indeed-my-team.php:77
+msgid "New Category Name"
+msgstr "Neue Kategorie Name"
+
+#: ../indeed-my-team.php:78
+msgid "Teams"
+msgstr "Mannschaften"
+
+#: ../indeed-my-team.php:121
+msgid "Personal Information"
+msgstr "Persönliche Informationen"
+
+#: ../indeed-my-team.php:131
+msgid "Social Media"
+msgstr "Social Media"
+
+#: ../indeed-my-team.php:152
+msgid "Member Picture"
+msgstr "Mitglied Bild"
+
+#: ../indeed-my-team.php:162
+msgid "Select an correlated Author"
+msgstr "Wählen Sie eine korrelierte Autor"
+
+#~ msgid "Short Description"
+#~ msgstr "Kurzbeschreibung"
