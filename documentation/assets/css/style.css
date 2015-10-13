@@ -50,6 +50,7 @@ body{
 	font-family: Helvetica, Arial;
 	font-size: 13px;
 	line-height: 1.5em;
+	margin: 10px 10px 10px;
 }
 
 body a{
@@ -119,8 +120,8 @@ header span a{
 }
 
 .wrapper{
-	width: 1010px;
-	margin: 0 auto;
+	width: 1025px;
+	margin: auto auto auto;
 	padding-top: 60px;
 	padding-bottom: 60px;
 }
@@ -128,7 +129,7 @@ header span a{
 
 nav{
 	float: left;
-	width: 250px;
+	width: 230px;
 	margin-right: 40px;
 	background: #EFECE3;
 }
