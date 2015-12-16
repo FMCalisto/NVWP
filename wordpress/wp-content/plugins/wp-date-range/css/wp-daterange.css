@@ -1,0 +1,9 @@
+.datepicker-box { padding: 0 0 7px 0; }
+.datepicker-box .datepicker-item { clear:both; padding: 7px 0 0 0; }
+.datepicker-box .datepicker-item a, .datepicker-box .datepicker-item input { float: left; }
+.datepicker-box label { display:block; }
+.datepicker-box .datepicker-item input { width : 150px; }
+.datepicker-box a.clear-datepicker, a.clear-datepicker:hover { border-radius: 3px; display: block; width: 16px; height: 16px; background: transparent url(smoothness/images/ui-icons.png) -96px -128px no-repeat; border: 1px solid #999; margin: 3px 0 0 3px; }
+.datepicker-box a.clear-datepicker:hover { background-color: #fff; cursor:pointer; }
+.datepicker-box a.clear-datepicker span { display: none!important; }
+.datepicker-box .clearboth { clear:both; }
