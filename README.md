@@ -34,6 +34,17 @@ The Visualization and Intelligent Multimodal Interfaces group, at INESC-ID (Lisb
 
 * Accessibility and Mobile Computing
 
+
+#### How to run the INESC-ID Publications Extrator Plugin?
+
+1) Go to the expected Page (this case Page->Publications);
+2) Enter the short code on the text area: ```[inesc-id what='publications' cc='II07']```
+3) Press Update
+
+> what: type of the list to be listed
+
+> cc: the number of the group to be listed on
+
 ### Group Coordinator
 
 [Joaquim Armando Pires Jorge](http://web.tecnico.ulisboa.pt/jorgej/)
