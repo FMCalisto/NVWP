@@ -38,7 +38,9 @@ The Visualization and Intelligent Multimodal Interfaces group, at INESC-ID (Lisb
 #### How to run the INESC-ID Publications Extrator Plugin?
 
 1) Go to the expected Page (this case Page->Publications);
+
 2) Enter the short code on the text area: ```[inesc-id what='publications' cc='II07']```
+
 3) Press Update
 
 > what: type of the list to be listed
