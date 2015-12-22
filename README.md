@@ -69,7 +69,7 @@ The Visualization and Intelligent Multimodal Interfaces group, at INESC-ID (Lisb
 
 * Professor [Joaquim Armando Pires Jorge](http://web.tecnico.ulisboa.pt/jorgej/)
 * Professor [Daniel Jorge Viegas Gonçalves](nielgoncalves.info)
-* Professor [David Martins de Matos](https://www.l2f.inesc-id.pt/wiki/index.php/David_Martins_de_Matos) ([@khep](https://github.com/khep))
+* Professor [David Martins de Matos](https://www.l2f.inesc-id.pt/wiki/index.php/David_Martins_de_Matos) ([khep](https://github.com/khep))
 * Rodrigo Lourenço ([rzlourenco](https://github.com/rzlourenco))
 * Bruno Oliveira ([bruno-oliveira](https://github.com/bruno-oliveira))
 * Bruno Dias ([echo66](https://github.com/echo66))
