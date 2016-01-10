@@ -59,7 +59,7 @@ The Visualization and Intelligent Multimodal Interfaces group, at INESC-ID (Lisb
 
 ### Group Web Site
 
-[VIMMI](http://www.inesc-id.pt/intranet/laboratoriogrupo/view/view_group.php?CC=II07)
+[VIMMI](https://vimmi.inesc-id.pt/)
 
 ### Presentations & Meetings
 
