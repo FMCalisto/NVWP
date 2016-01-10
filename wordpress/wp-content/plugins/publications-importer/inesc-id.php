@@ -29,7 +29,7 @@ $wgExtensionFunctions[] = "wfExampleExtension";
 //
 function wfExampleExtension() {
   global $wgParser;  // MediaWiki global variable
-  $wgParser->setHook("inesc-id", "renderINESCID");
+  $wgParser->setHook("xxxxx-xx", "renderXXXXXXX");
 }
 
 //---------------------------------------------------------------------------
