@@ -1,6 +1,6 @@
 <?php
 
-require_once "inesc-id-config.php";
+require_once "xxxxx-xx-config.php";
 
 function nameById($idDBLink, $id) {
   $result = odbc_exec($idDBLink, "SELECT nome FROM PessoalInesc WHERE pessoaId=\"" . trim($id) . "\"");

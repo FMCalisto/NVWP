@@ -1,6 +1,6 @@
 <?php
 
-require_once 'inesc-id-util.php';
+require_once 'xxxxx-xx-util.php';
 
 //---------------------------------------------------------------------------
 //---------------------------------------------------------------------------
@@ -35,7 +35,7 @@ function print_publications($authorID, $pub_name, $pub_tbl, $pub_type, $fields, 
 	$str.=", " . odbc_result($people_result, 'abrvnome') . "";
       if (odbc_result($pub_result, 'tempdf'))
 	$title = "<a target=\"_blank\" ".
-	  "href=\"http://www.inesc-id.pt/pt/indicadores/Ficheiros/". odbc_result($pub_result, 'pubid') . ".pdf\">".
+	  "href=\"http://www.xxxxx-xx.pt/pt/indicadores/Ficheiros/". odbc_result($pub_result, 'pubid') . ".pdf\">".
 	  "<b>" . odbc_result($pub_result, 'title') . "</b></a>";
       else
 	$title = "<b>" . odbc_result($pub_result, 'title') . "</b>";
@@ -173,7 +173,7 @@ function pubsById($idDBLink, $id, $sectionLevel = 2) {
   // TECHNICAL REPORTS
   $fields[0]=array("Tech. Rep.","TRNumber", "NOSEP");
   $fields[1]=array("/","year", "NOSEP");
-  $fields[2]=array(" INESC-ID Lisboa, ","");  // just concatenate "INESC-ID Lisboa"
+  $fields[2]=array(" XXXXX-XX Lisboa, ","");  // just concatenate "XXXXX-XX Lisboa"
   $s0 = print_publications($id, "Technical Reports", "TechReport", 4, $fields, $idDBLink,$year, $sectionLevel+1);
   unset($fields);
   if (trim($s0) != '') { $s .= $s0; }

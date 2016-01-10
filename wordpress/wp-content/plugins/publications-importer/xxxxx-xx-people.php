@@ -1,7 +1,7 @@
 <?php
 
-require_once 'inesc-id-config.php';
-require_once 'inesc-id-util.php';
+require_once 'xxxxx-xx-config.php';
+require_once 'xxxxx-xx-util.php';
 
 $idHab = array(1 => 'Agrega&ccedil;&atilde;o', 2 => 'PhD', 3 => 'MSc', 4 => 'BSc', 5 => 'Undergraduate', 6 => '[6]', 7 => '[7]');
 $idCat = array(1 => 'Full Professor', 2 => 'Associate Professor', 3 => 'Assistant Professor', 4 => 'Lecturer', 5 => 'Trainee Lecturer', 6 => 'Teaching Assistant', 7 => 'N/A');
@@ -25,7 +25,7 @@ function personById($idDBLink, $id) {
 
   $s = "";
   while(odbc_fetch_row($result)) {
-    $s .= "<h2>INESC ID Information</h2>";
+    $s .= "<h2>XXXXX XX Information</h2>";
     $s .= "<ul><li><strong>" . odbc_result($result, 'nome') . "</strong><br/>";
     //$s .= "<strong>Phone extension: </strong>" . odbc_result($result, 'telefone') . "<br/>";
     $s .= "<strong>E-mail: </strong><a href='mailto:" . odbc_result($result, 'email') . "'>" . odbc_result($result, 'email') . "</a><br/>";

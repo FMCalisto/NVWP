@@ -1,12 +1,12 @@
 <?php
-$servername = "www-db.inesc-id.pt";
-$username = "dblist";
-$password = "db2004ac1";
+$servername = "www-db.xxxxx-xx.pt";
+$username = "xxxxxx";
+$password = "xxxxxxxxx";
 
 echo "Start \n";
 try {
 	echo "PDO Start \n";
-    $conn = new PDO("mysql:host=$servername;dbname=INESC", $username, $password);
+    $conn = new PDO("mysql:host=$servername;dbname=XXXXX", $username, $password);
     echo "PDO Ok \n";
     // set the PDO error mode to exception
     echo "Connection Start \n";

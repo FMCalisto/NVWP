@@ -1,10 +1,10 @@
 <?php
 
-require_once 'inesc-id-config.php';
-require_once 'inesc-id-util.php';
-require_once 'inesc-id-people.php';
-require_once 'inesc-id-pubs.php';
-require_once 'inesc-id-advising.php';
+require_once 'xxxxx-xx-config.php';
+require_once 'xxxxx-xx-util.php';
+require_once 'xxxxx-xx-people.php';
+require_once 'xxxxx-xx-pubs.php';
+require_once 'xxxxx-xx-advising.php';
 
 
 # the function registered by the extension gets the text between the
@@ -22,8 +22,8 @@ $wgExtensionFunctions[] = "wfExampleExtension";
 //  Register the extension with the WikiText parser.
 //  The first parameter is the name of the new tag. In this case it defines
 //  the tag:
-//        <inesc-id> ... </inesc-id>
-//        [inces-id] ... [/inesc-id] <== WordPress
+//        <xxxxx-xx> ... </xxxxx-xx>
+//        [inces-id] ... [/xxxxx-xx] <== WordPress
 //  The second parameter is the callback function for processing the text
 //  between the tags.
 //
@@ -45,22 +45,22 @@ function wfExampleExtension() {
 //  with: include("extensions/YourExtensionName.php");
 //
 //  $argv is an array containing any arguments passed to the extension like:
-//     <inesc-id what="foo" bar>..
+//     <xxxxx-xx what="foo" bar>..
 //
 //  According to the metawiki, this works in MediaWiki 1.5.5.
-//   <inesc-id what="person" id="62">This text is not actually used</inesc-id>
+//   <xxxxx-xx what="person" id="62">This text is not actually used</xxxxx-xx>
 //
 // Personal information:
-//    <inesc-id what='person' id='62'></inesc-id>
+//    <xxxxx-xx what='person' id='62'></xxxxx-xx>
 //
 // Information for a group:
-//    <inesc-id what='publications' cc='IP02'></inesc-id>
+//    <xxxxx-xx what='publications' cc='IP02'></xxxxx-xx>
 //
 
-function renderINESCID($input, $argv) {
+function renderXXXXXID($input, $argv) {
   // connect to the database
-  $idDBLink = odbc_connect('INESC ID', 'dblist', 'db2004ac1');
-  if (!$idDBLink) { exit("Connection to database failed! Please contact root@l2f.inesc-id.pt."); }
+  $idDBLink = odbc_connect('XXXXX XX', 'xxxxxx', 'xxxxxxxxx');
+  if (!$idDBLink) { exit("Connection to database failed! Please contact root@l2f.xxxxx-xx.pt."); }
 
   $html = "";
   if ($argv['what'] == 'person') {

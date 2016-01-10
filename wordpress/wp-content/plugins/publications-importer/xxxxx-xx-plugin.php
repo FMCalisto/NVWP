@@ -1,43 +1,43 @@
 <?php
 /*
-Plugin Name: INESC-ID Plugin
+Plugin Name: XXXXX-XX Plugin
 Plugin URI: 
 Description: 
 Version: 1.2
 Author: Francisco Maria Calisto
 Author Email: francisco.mcalisto@gmail.com
 */
-require_once 'inesc-id.php';
-//require_once 'inesc-id-calls.php'; // Might not be needed
+require_once 'xxxxx-xx.php';
+//require_once 'xxxxx-xx-calls.php'; // Might not be needed
 
 class InescIDPlugin {
 
 
-	const name = 'INESC-ID Plugin';
-	const slug = 'inesc-id_plugin';
+	const name = 'XXXXX-XX Plugin';
+	const slug = 'xxxxx-xx_plugin';
 	
 	/**
 	 * Constructor
 	 */
 	function __construct() {
-		register_activation_hook( __FILE__, array( &$this, 'install_inesc_id_plugin' ) );
+		register_activation_hook( __FILE__, array( &$this, 'install_xxxxx_xx_plugin' ) );
 
 
-		add_action( 'init', array( &$this, 'init_inesc_id_plugin' ) );
+		add_action( 'init', array( &$this, 'init_xxxxx_xx_plugin' ) );
 	}
   
 
-	function install_inesc_id_plugin() {
+	function install_xxxxx_xx_plugin() {
 
 	}
 
-	function init_inesc_id_plugin() {
+	function init_xxxxx_xx_plugin() {
 		load_plugin_textdomain( self::slug, false, dirname( plugin_basename( __FILE__ ) ) . '/lang' );
 
 		$this->register_scripts_and_styles();
 
 
-		add_shortcode( 'inesc-id', array( &$this, 'render_shortcode' ) );
+		add_shortcode( 'xxxxx-xx', array( &$this, 'render_shortcode' ) );
 	
 		if ( is_admin() ) {
 			
@@ -53,7 +53,7 @@ class InescIDPlugin {
 			'cc' => ''
 			), $atts));
       */
-    renderINESCID($input, $atts);
+    renderXXXXXID($input, $atts);
 	}
   
 
